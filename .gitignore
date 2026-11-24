@@ -1,0 +1,12 @@
+/backend/build
+/backend/.gradle
+/backend/.idea
+/backend/src/main/resources/application.properties
+/backend/src/main/resources/service-account-credentials.json
+/frontend/.dart_tool
+/frontend/.idea
+/frontend/build
+/frontend/.flutter-plugins
+/frontend/.flutter-plugins-dependencies
+/frontend/frontend.iml
+/.idea
